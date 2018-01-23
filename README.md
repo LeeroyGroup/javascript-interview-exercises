@@ -7,7 +7,7 @@ Following is a set of exercises that we would like you to complete (e.g provide 
 Last but not least, some guidelines.
 
 - You should fork the main repository and create a separate branch (named accordingly) to each of the exercises.
-- You should implement all exercises (except number 5) in vanilla javascript without the help of any third party libraries.
+- You should implement all exercises (except number 5 and 6) in vanilla javascript without the help of any third party libraries.
 
 With that said; good luck!
 
@@ -31,6 +31,10 @@ This time around we need to implement a feature which allows us to filter the di
 
 ## Exercise 5
 
-Framework time! How would you reimplement exercise 4 in React and Redux (for state manegement)?
+Framework time! How would you reimplement exercise 4 in React?
 
-*For this particular exercise, you may use create-react-app unless you prefer doing all the heavy lifting yourself*
+## Exercise 6
+
+Framework time, redux! How would you reimplement exercise 4 using React and Redux (for state manegement)?
+
+*Note that for exercise 5 & 6, you may use create-react-app unless you prefer doing all the heavy lifting yourself*
