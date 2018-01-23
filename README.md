@@ -8,6 +8,7 @@ Last but not least, some guidelines.
 
 - You should fork the main repository and create a separate branch (named accordingly) to each of the exercises.
 - You should implement all exercises (except number 5 and 6) in vanilla javascript without the help of any third party libraries.
+- For exercise 5 & 6, you may use create-react-app unless you prefer doing all the heavy lifting yourself
 
 With that said; good luck!
 
@@ -36,5 +37,3 @@ Framework time! How would you reimplement exercise 4 in React?
 ## Exercise 6
 
 Framework time, redux! How would you reimplement exercise 4 using React and Redux (for state manegement)?
-
-*Note that for exercise 5 & 6, you may use create-react-app unless you prefer doing all the heavy lifting yourself*
