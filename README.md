@@ -22,7 +22,7 @@ Neat, that worked out well. Splendid! But... Being the curious cats we are, we w
 
 ## Exercise 3
 
-We all know that requirements change over time - and the time for great change is now. Imagine that the array of companies has increased in size/length and suddenly contains some 100000 elements. Ouch, that's plenty! Given this rather drastic change, are there any (one is good, two is great, three or more is awesome) specific optimization strategies that you can employ to your implementation from exercise 2 to better fit the current conditions?
+We all know that requirements change over time - and the time for great change is now. Imagine that the array of companies has increased in size/length and suddenly contains some 100000 elements. Ouch, that's plenty! Given this rather drastic change, are there any (one is good, two is great, three or more is awesome) specific optimization strategies that you can employ to your implementation from exercise 2 to better fit the current conditions? Tip; think of optimization in terms of code readability and memory usage rather than focusing on optimizing for speed.
 
 ## Exercise 4
 
